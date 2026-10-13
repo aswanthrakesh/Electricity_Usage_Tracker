@@ -1,0 +1,31 @@
+ELECTRICITY USAGE REPORT
+=========================
+Resident ID: 1
+Name: Rakesh
+Meter Number: M001
+Completed Months: 1
+Month 1: 118 units
+Month 2: Not recorded
+Month 3: Not recorded
+Total Recorded Usage: 118 units
+-------------------------
+Resident ID: 2
+Name: Aswanth
+Meter Number: M002
+Completed Months: 2
+Month 1: 81 units
+Month 2: 131 units
+Month 3: Not recorded
+Total Recorded Usage: 212 units
+-------------------------
+Resident ID: 3
+Name: Vijay Ram
+Meter Number: M003
+Completed Months: 3
+Month 1: 80 units
+Month 2: 90 units
+Month 3: 80 units
+Total Recorded Usage: 250 units
+-------------------------
+TOTAL USAGE ACROSS RESIDENTS: 580 units
+MISSING RESIDENT-MONTH READINGS: 3
