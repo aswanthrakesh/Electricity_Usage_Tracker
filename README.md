@@ -150,7 +150,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Rakesh**
+**Kota Aswanth Rakesh**
 
 Core Java Project | Electricity Usage Tracker
 
